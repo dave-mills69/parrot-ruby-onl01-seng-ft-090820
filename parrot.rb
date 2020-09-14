@@ -1,4 +1,6 @@
 def parrot(bird_noise = "Squawk!")
   puts (bird_noise)
-  return "Squawk!"
-end
+  return bird_noise
+  end
+
+parrot
